@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://geldengo.github.io/sitemap
+Sitemap: https://geldengo.github.io/app/sitemap
+Sitemap: https://geldengo.github.io/assets/sitemap
+Sitemap: https://geldengo.github.io/css/sitemap
+Sitemap: https://geldengo.github.io/includes/sitemap
+Sitemap: https://geldengo.github.io/item/sitemap
+Sitemap: https://geldengo.github.io/src/sitemap
